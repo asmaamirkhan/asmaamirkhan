@@ -30,7 +30,7 @@
 </details>
 
 <details>
-    <summary><b>😇 Want to know more personnally about me?</b></summary>
+    <summary><b>😇 Want to know more personally about me?</b></summary>
   <br>
 
   - 🦋 In love with challenges and <b>butterflies</b>
