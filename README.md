@@ -41,3 +41,8 @@
   - 🌺 Searching about beauty by inspecting details believing that it is reserved in them
 
 </details>
+
+
+## 🙆‍♀️ Reach me at..
+[![](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmaamirkhan/)
+[![](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmaamirkhan.am@gmail.com)
