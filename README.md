@@ -13,7 +13,7 @@
   - 👀 For more detailed professional and educational info about me check out my [:bowtie: LinkedIn profile](https://www.linkedin.com/in/asmaamirkhan/)
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=asmaamirkhan&show_icons=true&theme=nord)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=asmaamirkhan&show_icons=true&theme=synthwave)
 
   
   - 👩‍💻 Platforms I had experience with:
