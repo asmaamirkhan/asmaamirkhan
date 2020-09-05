@@ -1,5 +1,5 @@
 ## Hello globe 👋
-- 🦋 I am Asmaa, a Computer Engineering undergraduate student at Istanbul University (and life longlearner 🧐) 
+- 🦋 I am Asmaa, a Computer Engineering undergraduate student at Istanbul University (and lifelong learner 🧐) 
 - 👩‍💼 I am working as a computer vision developer 🤖 for DTSis company at Istanbul/Turkey
 
 
