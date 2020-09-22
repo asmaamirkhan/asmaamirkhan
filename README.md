@@ -7,10 +7,10 @@
     <summary><b>👩‍💻 Want to know more technically about me?</b></summary>
   <br>
 
-  - 💻 I have an experience in Web and Android development that I gained from internships and school projects I have did
+  - 💻 I have an experience in Web and Android development that I gained from internships and school projects I have done
   - 💫 I am working on artificial intelligence, machine learning and computer vision for now (very hard work 🤓)
   - 🧐 Specifically, I am focusing on implementing AI empowered projects on the <b>edge</b> 
-  - 👀 For more detailed professional and educational info about me check out my [:bowtie: LinkedIn profile](https://www.linkedin.com/in/asmaamirkhan/)
+  - 👀 For more detailed professional and educational info about me check out my [LinkedIn profile :bowtie:](https://www.linkedin.com/in/asmaamirkhan/)
   
 
   [![My github stats](https://github-readme-stats.vercel.app/api?username=asmaamirkhan&show_icons=true&theme=synthwave)]()
