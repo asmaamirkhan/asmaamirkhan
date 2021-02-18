@@ -14,7 +14,6 @@
   
 
   [![My github stats](https://github-readme-stats.vercel.app/api?username=asmaamirkhan&show_icons=true&theme=synthwave)]()
-
   
   - 👩‍💻 Platforms I had experience with:
 
@@ -29,6 +28,7 @@
 [![](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)]()
 [![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
 
+[![](https://komarev.com/ghpvc/?username=asmaamirkhan&color=blueviolet)]()
 
 </details>
 
