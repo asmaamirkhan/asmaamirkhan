@@ -2,6 +2,7 @@
 - 🦋 I am Asmaa, a Computer Engineering last year student at Istanbul University (and lifelong learner 🧐) 
 - 👩‍💼 I am working as a computer vision developer 🤖 for DTSis company at Istanbul/Turkey
 
+[![](https://komarev.com/ghpvc/?username=asmaamirkhan&color=blueviolet)]()
 
 <details>
     <summary><b>👩‍💻 Want to know more technically about me?</b></summary>
@@ -28,7 +29,6 @@
 [![](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)]()
 [![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
 
-[![](https://komarev.com/ghpvc/?username=asmaamirkhan&color=blueviolet)]()
 
 </details>
 
