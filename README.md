@@ -12,9 +12,7 @@
   - 💫 I am working on artificial intelligence, machine learning and computer vision for now (very hard work 🤓)
   - 🧐 Specifically, I am focusing on implementing AI empowered projects on the <b>edge</b> 
   - 👀 For more detailed professional and educational info about me check out my [LinkedIn profile :bowtie:](https://www.linkedin.com/in/asmaamirkhan/)
-  
-
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=asmaamirkhan&show_icons=true&theme=synthwave)]()
+   
   
   - 👩‍💻 Platforms I had experience with:
 
@@ -28,6 +26,9 @@
 [![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)]()
 [![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
+
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=asmaamirkhan&show_icons=true&theme=bear)]()
+  [![My github stats](https://github-readme-streak-stats.herokuapp.com/?user=asmaamirkhan&theme=bear)]()
 
 
 </details>
