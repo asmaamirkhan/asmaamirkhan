@@ -1,6 +1,6 @@
 ## Hello globe 👋
 - 🦋 I am Asmaa, freshly graduated computer engineer (and lifelong learner 🧐) 
-- 👩‍💼 I am working as a computer vision developer 🤖 for DTSis company at Istanbul/Turkey
+- 👩‍💼 I am working as a computer vision engineer 🤖 for DTSis company at Istanbul/Turkey
 
 [![](https://komarev.com/ghpvc/?username=asmaamirkhan&color=blueviolet)]()
 
