@@ -1,7 +1,7 @@
-## Hello globe 👋
+## Hello Globe 👋
 - 🦋 I am Asmaa, freshly graduated computer engineer (and lifelong learner 🧐) 
-- 🌱 Currently, I am first year master's degree student at University of Padua
-- 👩‍💼 I am working as a computer vision engineer 🤖 for DTSis company at Istanbul/Turkey (🛸 remotely from Italy) 
+- 🌱 Currently, I am a first year master's degree student at University of Padua
+- 👩‍💼 I am working as a computer vision engineer 🤖 for DTSis company in Istanbul/Turkey (🛸 remotely from Italy) 
 
 [![](https://komarev.com/ghpvc/?username=asmaamirkhan&color=blueviolet)]()
 
@@ -9,13 +9,13 @@
     <summary><b>👩‍💻 Want to know more technically about me?</b></summary>
   <br>
 
-  - 💻 I have an experience in Web and Android development that I gained from internships and school projects I have done
+  - 💻 I have experience in Web and Android development that I gained from internships and school projects I have done
   - 💫 I am working on artificial intelligence, machine learning and computer vision for now (very hard work 🤓)
-  - 🧐 Specifically, I am focusing on implementing AI empowered projects on the <b>edge</b> 
-  - 👀 For more detailed professional and educational info about me check out my [LinkedIn profile :bowtie:](https://www.linkedin.com/in/asmaamirkhan/)
+  - 🧐 Specifically, I am focusing on implementing AI-empowered projects on the <b>edge</b> 
+  - 👀 For more detailed professional and educational info about me, check out my [LinkedIn profile :bowtie:](https://www.linkedin.com/in/asmaamirkhan/)
    
   
-  - 👩‍💻 Platforms I had experience with:
+  - 👩‍💻 Platforms I have experience with:
 
 [![](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)]()
 [![](https://img.shields.io/badge/PyTorch%20-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)]()
@@ -48,7 +48,7 @@
   - 🍕 Hungry for knowledge and have passion in learning new things continuously
   - 🧐 Developing my self as a <b>HUMAN</b> is my top priority believing that making the world a better place to live starts from individuals 
   - 📜 Love quotes and sometimes share my own quotes at [asmaamir.com 🦋](https://asmaamir.com)
-  - 🌺 Searching about beauty by inspecting details believing that it is reserved in them
+  - 🌺 Searching for beauty by inspecting details believing that it is reserved in them
 
 </details>
 
