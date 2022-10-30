@@ -1,7 +1,8 @@
 ## Hello Globe 👋
-- 🦋 I am Asmaa, freshly graduated computer engineer (and lifelong learner 🧐) 
-- 🌱 Currently, I am a first year master's degree student at University of Padua
+- 🦋 I am Asmaa, freshly graduated computer engineer from Istanbul University-Cerrahpaşa (and lifelong learner 🧐) 
+- 🌱 Currently, I am a second year master's degree student at University of Padua
 - 👩‍💼 I am working as a computer vision engineer 🤖 for DTSis company in Istanbul/Turkey (🛸 remotely from Italy) 
+- 🙌🏻 Also, I am working as a software tester 🧪 for Siav company in Italy (🏢 physically) 
 
 [![](https://komarev.com/ghpvc/?username=asmaamirkhan&color=blueviolet)]()
 
