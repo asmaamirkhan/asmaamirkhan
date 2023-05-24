@@ -2,7 +2,6 @@
 - 🦋 I am Asmaa, freshly graduated computer engineer from Istanbul University-Cerrahpaşa (and lifelong learner 🧐) 
 - 🌱 Currently, I am a second year master's degree student at University of Padua
 - 👩‍💼 I am working as a computer vision engineer 🤖 for [DTSis](https://dtsis.com/) company in Istanbul/Turkey (🛸 remotely) 
-- 🙌🏻 Also, I am working as a software tester 🧪 for [Siav](https://www.siav.com/) company in Italy (🏢 physically) 
 
 [![](https://komarev.com/ghpvc/?username=asmaamirkhan&color=blueviolet)]()
 
